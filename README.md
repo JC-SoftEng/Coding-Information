@@ -173,3 +173,18 @@
     ```
 
     _Replace `PID` with the actual process ID._
+
+## Useful VSCode Shortcuts
+
+-   **Move Line Up/Down**: `Alt + Up/Down Arrow`
+-   **Add multiple cursors**: `Ctrl + Alt + Click` or `Ctrl + Alt + Up/Down Arrow`
+-   **Delete Line**: `Ctrl + Shift + K`
+-   **Comment/Uncomment Line**: `Ctrl + /`
+-   **Select current line**: `Ctrl + L`
+-   **Navigate to a specific line**: `Ctrl + G`
+-   **Go to Definition**: `F12`
+-   **Select all occurrences of a operation**: `Ctrl + F2`
+-   **Trim Trailing Whitespace**: `Ctrl + K` then `Ctrl + X`
+-   **Copy Line Up/Down**: `Shift + Alt + Up/Down Arrow`
+-   **Open Command Palette**: `Ctrl + Shift + P`
+-   **Open Markdown Preview**: `Ctrl + Shift + V`
